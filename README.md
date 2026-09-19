@@ -16,8 +16,7 @@ I'm a **DevOps Engineer Intern at CloudBlitz (powered by Greamio)** in Pune, Ind
 - 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, and CI/CD**
 - 📍 Based in **Pune, Maharashtra, India** 🇮🇳
 - 💼 Open to **DevOps / Cloud Engineer opportunities**
-
----
+- ---
 
 ## 💼 Experience
 
