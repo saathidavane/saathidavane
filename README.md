@@ -1,4 +1,4 @@
-<h1 align="center">Hello Dosto 👋 I'm San (Sathi Davane)</h1>
+<h1 align="center">Hello Everyone I'm Sathi Davane</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+Intern;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+CI%2FCD+and+cloud+infrastructure" alt="Typing SVG" />
