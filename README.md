@@ -81,12 +81,6 @@ I'm a **DevOps Engineer Intern at CloudBlitz (powered by Greamio)** in Pune, Ind
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saathidavane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-## 📊 GitHub Streak
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saathidavane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
----
 
 
 ## 🌐 Connect With Me
