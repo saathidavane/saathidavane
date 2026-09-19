@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer Intern at CloudBlitz (powered by Greamio)** in Pune, India, working with cloud infrastructure, CI/CD and containerized deployments. I hold a **B.Tech in Computer Science & Engineering** from Sanjay Ghodawat University (2026) and I'm passionate about automating infrastructure and shipping reliable, production-ready systems.
+I'm a **DevOps Engineer Intern at Hisanlabs Pvt Ltd** in Pune, India, working with cloud infrastructure, CI/CD and containerized deployments. I hold a **B.Tech in Computer Science & Engineering** from Sanjay Ghodawat University (2026) and I'm passionate about automating infrastructure and shipping reliable, production-ready systems.
 
 - 🔭 Currently working on **AWS infrastructure, Terraform, and Kubernetes (EKS)** deployments
 - 🌱 Always learning: Docker, Kubernetes, CI/CD pipelines and cloud best practices
